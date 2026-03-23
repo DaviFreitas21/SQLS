@@ -63,7 +63,7 @@ VALUES ('Conjunto Pijama', 119.99 , '16/04/2024', 1),
 ('Chinelo de Borracha', 29.99, '07/09/2025', 1),
 ('Jaqueta Puffer', 219.99 ,'06/07/2025', 3),
 ('Shorts Jeans', 89.99, '02/02/2024', 2),
-('Calça Legging', 64.99, '19/05/2022', 2),
+('Calça Legging', 64.99, '19/05/2022', 2)
 
 INSERT INTO tbCliente(nomeCliente, idadeCliente)
 VALUES ('Henrique Negri', 16),
